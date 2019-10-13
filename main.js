@@ -7,5 +7,5 @@ window.addEventListener('keydown', (e) => {
     if (!audio) return;
     audio.currentTime = 0;
     audio.play();
-    key.textContent = 'ME';
+    key.classList.add('playing');
 })
