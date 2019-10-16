@@ -65,3 +65,18 @@ kbd {
   border-bottom: #ffc600 solid 5px;
   padding: 1px 5px;
 }
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.github-icon {
+  height: 50px;
+  margin: 0 auto;
+}
+
+.github-icon:hover {
+  width: 53px;
+  height: 53px;
+}
